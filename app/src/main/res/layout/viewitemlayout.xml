@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/oneclick" />
+
+    <TextView
+        android:id="@+id/itemnameid1"
+        android:textAlignment="textStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="itemname"/>
+
+    <TextView
+        android:id="@+id/itemnameid2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="itemname"/>
+
+    <TextView
+        android:id="@+id/itemnameid3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="itemname"/>
+
+    <TextView
+        android:id="@+id/itemnameid4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="itemname"/>
+
+    <Button
+        android:id="@+id/rmvwbtn"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="REMOVE"/>
+
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<resources>
+    <!-- login page strings -->
+    <string name="app_name">One click</string>
+    <string name="login_btn_name">Login</string>
+    <string name="login_user_name">User email</string>
+    <string name="login_user_pwd">Password</string>
+    <string name="login_to_reg">Register here</string>
+
+
+    <!--    register page strings-->
+    <string name="sign_up_firstname">Firstname</string>
+    <string name="sign_up_lastname">Lastname</string>
+    <string name="sign_up_phoneno">Phoneno</string>
+    <string name="sign_up_email">E-mail</string>
+    <string name="sign_up_nic">NIC</string>
+    <string name="sign_up_password">Enter Password</string>
+    <string name="sign_up_passwordagain">Re-enter Password</string>
+    <string name="sign_up_button">SignUp</string>
+    <string name="reg_to_login">Login here</string>
+
+
+    <!--- add_item strings -->
+    <string name="add_itname">Item Name</string>
+    <string name="add_itprice">Item Price</string>
+    <string name="add_itmodel">Model</string>
+    <string name="add_itmdes">Description</string>
+    <string name="add_itmbtn">ADD ITEM</string>
+
+    <!---main activity strings-->
+
+
+</resources>
